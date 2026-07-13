@@ -19,5 +19,10 @@
 3. Esther
 4. Dephin
 >>>>>>> 84778fa5674b9fd39aae8bdf4a8986f93a35f4ea
+<<<<<<< HEAD
 
 Joel
+=======
+>>>>>>>
+Rossy
+>>>>>>> 79d17a0c85a28daf6fb8c64a7d0126bdd5d19f51
